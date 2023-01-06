@@ -1,84 +1,83 @@
 [
     {
-      "id": 1,
-      "title": "Html",
-      "icon": "fa-brands fa-html5",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-
-      "url":"https://i.ytimg.com/vi/7mdEvKyLoYM/maxresdefault.jpg",
-      "rating":5
+        "id": 1,
+        "title": "Html",
+        "icon": "fa-brands fa-html5",
+        "headline": "Html Package",
+        "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.",
+        "url": "https://i.ytimg.com/vi/7mdEvKyLoYM/maxresdefault.jpg",
+        "rating": 5
     },
     {
-      "id": 2,
-      "title": "CSS",
-      "icon": "fa-brands fa-css3",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png",
-      "rating":4
+        "id": 2,
+        "title": "CSS",
+        "icon": "fa-brands fa-css3",
+        "headline": "CSS Package",
+        "description": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.",
+        "url": "https://www.w3docs.com/uploads/media/default/0001/05/6d07a36ebe6d55273b39440f2391f1d7e6d4092a.png",
+        "rating": 4
     },
     {
-      "id": 3,
-      "title": "Java Script",
-      "icon": "fa-brands fa-js",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
-      "rating":4
+        "id": 3,
+        "title": "Java Script",
+        "icon": "fa-brands fa-js",
+        "headline": "Js Package",
+        "description": "JavaScript , often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
+        "url": "https://www.tutorialrepublic.com/lib/images/javascript-illustration.png",
+        "rating": 4
     },
     {
-      "id": 4,
-      "title": "React",
-      "icon": "fa-brands fa-react",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://reactjs.org/logo-og.png",
-      "rating":5
+        "id": 4,
+        "title": "React",
+        "icon": "fa-brands fa-react",
+        "headline": "React Package",
+        "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data change Declarative views make your code more predictable and easier to debug.It is Component-Based That's why Build encapsulated components that manage their own state, then compose them to make complex UIs. Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.",
+        "url": "https://reactjs.org/logo-og.png",
+        "rating": 5
     },
     {
-      "id": 5,
-      "title": "NodeJs",
-      "icon": "fa-brands fa-node",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg",
-      "rating":3
+        "id": 5,
+        "title": "NodeJs",
+        "icon": "fa-brands fa-node",
+        "headline": "Node Js Package",
+        "description": "Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and more. Node.js is a back-end JavaScript runtime environment, runs on the V8 JavaScript Engine, and executes JavaScript code outside a web browser. Node.js lets developers use JavaScript to write command line tools and for server-side scripting. The functionality of running scripts server-side produces dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a 'JavaScript everywhere' paradigm,unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts.",
+        "url": "https://www.devteam.space/wp-content/uploads/2022/05/nodejs.jpg",
+        "rating": 3
     },
     {
-      "id": 6,
-      "title": "Vue",
-      "icon": "fa-brands fa-vuejs",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://segwitz.com/wp-content/uploads/2021/06/vuejs-development-malaysia.jpeg",
-      "rating":2
+        "id": 6,
+        "title": "Vue",
+        "icon": "fa-brands fa-vuejs",
+        "headline": "Vue Package",
+        "description": "Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only.Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages. Vue.js allows for extending HTML with HTML attributes called directives. The directives offer functionality to HTML applications, and come as either built-in or user defined directives.",
+        "url": "https://segwitz.com/wp-content/uploads/2021/06/vuejs-development-malaysia.jpeg",
+        "rating": 2
     },
     {
-      "id": 7,
-      "title": "Php",
-      "icon": "fa-brands fa-php",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://www.cloudways.com/blog/wp-content/uploads/best-php-frameworks-1.jpg",
-      "rating":4
+        "id": 7,
+        "title": "Php",
+        "icon": "fa-brands fa-php",
+        "headline": "Php Package",
+        "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995.The PHP reference implementation is now produced by The PHP Group.PHP was originally an abbreviation of Personal Home Page,but it now stands for the recursive initialism PHP: Hypertext Preprocessor.",
+        "url": "https://www.cloudways.com/blog/wp-content/uploads/best-php-frameworks-1.jpg",
+        "rating": 4
     },
     {
-      "id": 8,
-      "title": "Laravel",
-      "icon": "fa-brands fa-laravel",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://www.cloudways.com/blog/wp-content/uploads/Laravel-9.jpg",
-      "rating":5
+        "id": 8,
+        "title": "Laravel",
+        "icon": "fa-brands fa-laravel",
+        "headline": "Laravel Package",
+        "description": "Laravel is a free and open-source PHP web framework,created by Taylor Otwell and intended for the development of web applications following the model view controller (MVC) architectural pattern and based on Symfony. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar.",
+        "url": "https://www.cloudways.com/blog/wp-content/uploads/Laravel-9.jpg",
+        "rating": 5
     },
     {
-      "id": 9,
-      "title": "Database",
-      "icon": "fa-solid fa-database",
-      "headline":"Short description should be here",
-      "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Non repudiandae adipisci quidem veniam est esse iure! Molestiae illo soluta dolor esse nesciunt fugiat vero nobis eius quod, recusandae eveniet accusamus.",
-      "url":"https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
-      "rating":3
+        "id": 9,
+        "title": "Database",
+        "icon": "fa-solid fa-database",
+        "headline": "Database Package",
+        "description": "A database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a database system. Often the term 'jdatabase' is also used loosely to refer to any of the DBMS, the database system or an application associated with the database.",
+        "url": "https://s7280.pcdn.co/wp-content/uploads/2016/06/database-blue.png",
+        "rating": 3
     }
-  ]
+]
