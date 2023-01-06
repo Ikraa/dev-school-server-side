@@ -8,7 +8,7 @@ const port=process.env.PORT || 4000
 
 
 app.get("/",(req,res)=>{
-    res.send("Dev school server start successfully...")
+    res.send("Welcome to our Dev school server successfully...")
 })
 app.get("/courses",(req,res)=>{
     res.send({staus:true,data:data})
